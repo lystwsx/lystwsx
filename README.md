@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Guilherme aka Lyst 👋
 ### Machine Learning & Deep Learning Engineer
 
 I build data-driven solutions and intelligent systems, focusing on designing, training, and deploying predictive models and Deep Learning architectures.
